@@ -4,7 +4,7 @@ An end-to-end full-stack machine learning application combining structured credi
 
 ## Screenshots
 
-- **Authentication:** <img width="847" height="680" alt="image" src="https://github.com/user-attachments/assets/747b7633-44de-4b9e-b353-491894a98549" />
+- **Authentication:**  <img width="847" height="680" alt="image" src="https://github.com/user-attachments/assets/747b7633-44de-4b9e-b353-491894a98549" />
 
 - **Dashboard:** <img width="1772" height="887" alt="image" src="https://github.com/user-attachments/assets/afafe85b-e025-4821-b3d7-eb87ce0bef2f" />
                  <img width="1737" height="860" alt="image" src="https://github.com/user-attachments/assets/0f0b22aa-880e-4f65-be25-91103bae029f" />
