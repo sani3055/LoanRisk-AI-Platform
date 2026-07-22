@@ -154,7 +154,6 @@ Your backend contains a `Dockerfile` that packages the FastAPI app, XGBoost, and
 
 ## Screenshots
 
-*(Add screenshots here before presenting the project)*
 - **Authentication:** <img width="847" height="680" alt="image" src="https://github.com/user-attachments/assets/747b7633-44de-4b9e-b353-491894a98549" />
 
 - **Dashboard:** <img width="1772" height="887" alt="image" src="https://github.com/user-attachments/assets/afafe85b-e025-4821-b3d7-eb87ce0bef2f" />
