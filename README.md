@@ -2,6 +2,18 @@
 
 An end-to-end full-stack machine learning application combining structured credit risk prediction, financial NLP, explainable AI, authentication, persistent prediction history, and report generation.
 
+## Screenshots
+
+- **Authentication:** <img width="847" height="680" alt="image" src="https://github.com/user-attachments/assets/747b7633-44de-4b9e-b353-491894a98549" />
+
+- **Dashboard:** <img width="1772" height="887" alt="image" src="https://github.com/user-attachments/assets/afafe85b-e025-4821-b3d7-eb87ce0bef2f" />
+                 <img width="1737" height="860" alt="image" src="https://github.com/user-attachments/assets/0f0b22aa-880e-4f65-be25-91103bae029f" />
+
+- **Assessment Form & Result:** <img width="1726" height="855" alt="image" src="https://github.com/user-attachments/assets/221f55dd-7709-49ac-a47c-4b5418f5db8d" />
+
+- **Prediction History:** <img width="1667" height="732" alt="image" src="https://github.com/user-attachments/assets/9bc2f42c-93c3-4f15-bc7a-a32518692198" />
+                          <img width="1717" height="895" alt="image" src="https://github.com/user-attachments/assets/c10fd04c-6c59-4253-8e9b-1f049b16c174" />
+                          
 ## Key Features
 
 - **Real XGBoost Prediction**: Uses checked-in trained model artifacts for default-probability inference.
@@ -151,18 +163,6 @@ Your backend contains a `Dockerfile` that packages the FastAPI app, XGBoost, and
 ### API Endpoints
 - `GET /api/health`: Check model and FinBERT readiness.
 - `POST /api/predict`: Validates data, runs XGBoost/FinBERT, fuses scores, and returns SHAP factors.
-
-## Screenshots
-
-- **Authentication:** <img width="847" height="680" alt="image" src="https://github.com/user-attachments/assets/747b7633-44de-4b9e-b353-491894a98549" />
-
-- **Dashboard:** <img width="1772" height="887" alt="image" src="https://github.com/user-attachments/assets/afafe85b-e025-4821-b3d7-eb87ce0bef2f" />
-                 <img width="1737" height="860" alt="image" src="https://github.com/user-attachments/assets/0f0b22aa-880e-4f65-be25-91103bae029f" />
-
-- **Assessment Form & Result:** <img width="1726" height="855" alt="image" src="https://github.com/user-attachments/assets/221f55dd-7709-49ac-a47c-4b5418f5db8d" />
-
-- **Prediction History:** <img width="1667" height="732" alt="image" src="https://github.com/user-attachments/assets/9bc2f42c-93c3-4f15-bc7a-a32518692198" />
-                          <img width="1717" height="895" alt="image" src="https://github.com/user-attachments/assets/c10fd04c-6c59-4253-8e9b-1f049b16c174" />
 
 
 
