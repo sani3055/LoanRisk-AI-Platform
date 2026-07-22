@@ -2,8 +2,6 @@
 
 An end-to-end full-stack machine learning application combining structured credit risk prediction, financial NLP, explainable AI, authentication, persistent prediction history, and report generation.
 
-> **Responsible Use**: This is a decision-support demonstration only. It must not independently approve, deny, or price real lending applications.
-
 ## Key Features
 
 - **Real XGBoost Prediction**: Uses checked-in trained model artifacts for default-probability inference.
