@@ -118,7 +118,7 @@ git add .
 git commit -m "Initial commit: Loan Risk Platform"
 
 # 4. Link to your GitHub repository (replace URL with your actual repo URL)
-git remote add origin https://github.com/yourusername/loan-risk-app.git
+git remote add origin https://github.com/yourusername/LoanRisk-AI-Platform.git
 
 # 5. Push your code to GitHub
 git branch -M main
