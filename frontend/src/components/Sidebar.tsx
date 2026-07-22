@@ -20,7 +20,7 @@ export function Sidebar() {
   return (
     <aside style={{ justifyContent: 'space-between' }}>
       <div>
-        <div className="brand"><ShieldCheck /> CreditLens</div>
+        <div className="brand"><ShieldCheck /> LoanRisk-AI</div>
         <Link to="/" className={path === '/' ? 'active' : ''}>Dashboard</Link>
         <Link to="/new" className={path === '/new' ? 'active' : ''}>New Assessment</Link>
         <Link to="/history" className={path === '/history' ? 'active' : ''}>Prediction History</Link>

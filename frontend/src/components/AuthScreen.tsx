@@ -30,7 +30,7 @@ export function AuthScreen() {
   return (
     <div className="auth">
       <form className="card" onSubmit={submit}>
-        <div className="brand dark"><ShieldCheck /> CreditLens</div>
+        <div className="brand dark"><ShieldCheck /> LoanRisk-AI</div>
         <h1>{signup ? 'Create account' : 'Welcome back'}</h1>
         <p className="muted">Secure loan-risk analytics workspace</p>
         <label>
